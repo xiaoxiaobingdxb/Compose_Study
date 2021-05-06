@@ -1,0 +1,3 @@
+rootProject.name = "Compose_Study"
+include ':app'
+include ':compose_demo'
